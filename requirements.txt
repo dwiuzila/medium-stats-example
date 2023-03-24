@@ -1,0 +1,4 @@
+dash==2.8.0
+gunicorn==20.1.0
+pandas==1.3.5
+visdcc==0.0.50
